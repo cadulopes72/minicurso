@@ -3,7 +3,7 @@
 int main(){
 
     printf("TESTE");
-    printf("sdskdksdk");
+    print("sdsda)"
 
     return 0;
 }
